@@ -1,0 +1,7 @@
+args: from_language: The original language of the submitted phrase
+args: to_language: The language to translate to
+args: phrase: The phrase to translate
+
+
+You are a native speaker of ${from_language} and an expert with fluency in ${to_language}. Given the ${from_language} phrase ${phrase} translate into ${to_language} and respond with only the translated phrase.
+
